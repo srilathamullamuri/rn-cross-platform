@@ -1,0 +1,624 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly Survey List Screen 1`] = `
+<div
+  className="css-view-1dbjc4n"
+  style={
+    Object {
+      "WebkitFlex": 1,
+      "flex": 1,
+      "msFlex": "1 1 0%",
+      "paddingBottom": "10px",
+      "paddingLeft": "10px",
+      "paddingRight": "10px",
+      "paddingTop": "10px",
+      "width": "80vw",
+    }
+  }
+>
+  <div
+    className="css-view-1dbjc4n"
+    style={
+      Object {
+        "borderBottomColor": "rgba(200,225,255,1.00)",
+        "borderBottomWidth": "2px",
+        "borderLeftColor": "rgba(200,225,255,1.00)",
+        "borderLeftWidth": "2px",
+        "borderRightColor": "rgba(200,225,255,1.00)",
+        "borderTopColor": "rgba(200,225,255,1.00)",
+        "width": "100%",
+      }
+    }
+  >
+    <div
+      className="css-view-1dbjc4n"
+      style={
+        Object {
+          "WebkitBoxDirection": "normal",
+          "WebkitBoxOrient": "horizontal",
+          "WebkitFlexDirection": "row",
+          "backgroundColor": "rgba(241,248,255,1.00)",
+          "flexDirection": "row",
+          "height": "40px",
+          "msFlexDirection": "row",
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+        }
+      }
+    >
+      <div
+        className="css-view-1dbjc4n"
+        style={
+          Object {
+            "WebkitBoxPack": "center",
+            "WebkitFlex": 1,
+            "WebkitJustifyContent": "center",
+            "borderBottomColor": "rgba(0,0,0,1.00)",
+            "borderLeftColor": "rgba(0,0,0,1.00)",
+            "borderRightColor": "rgba(0,0,0,1.00)",
+            "borderRightWidth": "0px",
+            "borderTopColor": "rgba(0,0,0,1.00)",
+            "borderTopWidth": "0px",
+            "flex": 1,
+            "justifyContent": "center",
+            "msFlex": "1 1 0%",
+            "msFlexPack": "center",
+            "paddingBottom": "5px",
+            "paddingLeft": "5px",
+            "paddingRight": "5px",
+            "paddingTop": "5px",
+          }
+        }
+      >
+        <div
+          className="css-text-901oao"
+          dir="auto"
+          style={
+            Object {
+              "backgroundColor": "rgba(0,0,0,0.00)",
+              "marginBottom": "6px",
+              "marginLeft": "6px",
+              "marginRight": "6px",
+              "marginTop": "6px",
+              "paddingBottom": "5px",
+              "paddingLeft": "5px",
+              "paddingRight": "5px",
+              "paddingTop": "5px",
+              "textAlign": "center",
+            }
+          }
+        >
+          Assessment
+        </div>
+      </div>
+      <div
+        className="css-view-1dbjc4n"
+        style={
+          Object {
+            "WebkitBoxPack": "center",
+            "WebkitFlex": 1,
+            "WebkitJustifyContent": "center",
+            "borderBottomColor": "rgba(0,0,0,1.00)",
+            "borderLeftColor": "rgba(0,0,0,1.00)",
+            "borderRightColor": "rgba(0,0,0,1.00)",
+            "borderRightWidth": "0px",
+            "borderTopColor": "rgba(0,0,0,1.00)",
+            "borderTopWidth": "0px",
+            "flex": 1,
+            "justifyContent": "center",
+            "msFlex": "1 1 0%",
+            "msFlexPack": "center",
+            "paddingBottom": "5px",
+            "paddingLeft": "5px",
+            "paddingRight": "5px",
+            "paddingTop": "5px",
+          }
+        }
+      >
+        <div
+          className="css-text-901oao"
+          dir="auto"
+          style={
+            Object {
+              "backgroundColor": "rgba(0,0,0,0.00)",
+              "marginBottom": "6px",
+              "marginLeft": "6px",
+              "marginRight": "6px",
+              "marginTop": "6px",
+              "paddingBottom": "5px",
+              "paddingLeft": "5px",
+              "paddingRight": "5px",
+              "paddingTop": "5px",
+              "textAlign": "center",
+            }
+          }
+        >
+          Version
+        </div>
+      </div>
+      <div
+        className="css-view-1dbjc4n"
+        style={
+          Object {
+            "WebkitBoxPack": "center",
+            "WebkitFlex": 1,
+            "WebkitJustifyContent": "center",
+            "borderBottomColor": "rgba(0,0,0,1.00)",
+            "borderLeftColor": "rgba(0,0,0,1.00)",
+            "borderRightColor": "rgba(0,0,0,1.00)",
+            "borderRightWidth": "0px",
+            "borderTopColor": "rgba(0,0,0,1.00)",
+            "borderTopWidth": "0px",
+            "flex": 1,
+            "justifyContent": "center",
+            "msFlex": "1 1 0%",
+            "msFlexPack": "center",
+            "paddingBottom": "5px",
+            "paddingLeft": "5px",
+            "paddingRight": "5px",
+            "paddingTop": "5px",
+          }
+        }
+      >
+        <div
+          className="css-text-901oao"
+          dir="auto"
+          style={
+            Object {
+              "backgroundColor": "rgba(0,0,0,0.00)",
+              "marginBottom": "6px",
+              "marginLeft": "6px",
+              "marginRight": "6px",
+              "marginTop": "6px",
+              "paddingBottom": "5px",
+              "paddingLeft": "5px",
+              "paddingRight": "5px",
+              "paddingTop": "5px",
+              "textAlign": "center",
+            }
+          }
+        >
+          Actions
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-view-1dbjc4n"
+      style={
+        Object {
+          "borderBottomColor": "rgba(200,225,255,1.00)",
+          "borderBottomWidth": "1px",
+          "borderLeftColor": "rgba(200,225,255,1.00)",
+          "borderLeftWidth": "1px",
+          "borderRightColor": "rgba(200,225,255,1.00)",
+          "borderRightWidth": "1px",
+          "borderTopColor": "rgba(200,225,255,1.00)",
+          "borderTopWidth": "1px",
+        }
+      }
+    >
+      <div
+        className="css-view-1dbjc4n"
+        style={
+          Object {
+            "WebkitBoxDirection": "normal",
+            "WebkitBoxOrient": "horizontal",
+            "WebkitFlexDirection": "row",
+            "backgroundColor": "rgba(255,241,193,1.00)",
+            "flexDirection": "row",
+            "msFlexDirection": "row",
+          }
+        }
+      >
+        <div
+          className="css-view-1dbjc4n"
+          style={
+            Object {
+              "WebkitBoxPack": "center",
+              "WebkitFlex": 1,
+              "WebkitJustifyContent": "center",
+              "borderBottomColor": "rgba(0,0,0,1.00)",
+              "borderLeftColor": "rgba(0,0,0,1.00)",
+              "borderRightColor": "rgba(0,0,0,1.00)",
+              "borderRightWidth": "0px",
+              "borderTopColor": "rgba(0,0,0,1.00)",
+              "borderTopWidth": "0px",
+              "flex": 1,
+              "justifyContent": "center",
+              "msFlex": "1 1 0%",
+              "msFlexPack": "center",
+              "paddingBottom": "5px",
+              "paddingLeft": "5px",
+              "paddingRight": "5px",
+              "paddingTop": "5px",
+            }
+          }
+        >
+          <div
+            className="css-text-901oao"
+            dir="auto"
+            style={
+              Object {
+                "backgroundColor": "rgba(0,0,0,0.00)",
+                "paddingBottom": "5px",
+                "paddingLeft": "5px",
+                "paddingRight": "5px",
+                "paddingTop": "5px",
+                "textAlign": "center",
+              }
+            }
+          >
+            Life Plan
+          </div>
+        </div>
+        <div
+          className="css-view-1dbjc4n"
+          style={
+            Object {
+              "WebkitBoxPack": "center",
+              "WebkitFlex": 1,
+              "WebkitJustifyContent": "center",
+              "borderBottomColor": "rgba(0,0,0,1.00)",
+              "borderLeftColor": "rgba(0,0,0,1.00)",
+              "borderRightColor": "rgba(0,0,0,1.00)",
+              "borderRightWidth": "0px",
+              "borderTopColor": "rgba(0,0,0,1.00)",
+              "borderTopWidth": "0px",
+              "flex": 1,
+              "justifyContent": "center",
+              "msFlex": "1 1 0%",
+              "msFlexPack": "center",
+              "paddingBottom": "5px",
+              "paddingLeft": "5px",
+              "paddingRight": "5px",
+              "paddingTop": "5px",
+            }
+          }
+        >
+          <div
+            className="css-text-901oao"
+            dir="auto"
+            style={
+              Object {
+                "backgroundColor": "rgba(0,0,0,0.00)",
+                "paddingBottom": "5px",
+                "paddingLeft": "5px",
+                "paddingRight": "5px",
+                "paddingTop": "5px",
+                "textAlign": "center",
+              }
+            }
+          >
+            0.9
+          </div>
+        </div>
+        <div
+          className="css-view-1dbjc4n"
+          style={
+            Object {
+              "WebkitBoxPack": "center",
+              "WebkitFlex": 1,
+              "WebkitJustifyContent": "center",
+              "borderBottomColor": "rgba(0,0,0,1.00)",
+              "borderLeftColor": "rgba(0,0,0,1.00)",
+              "borderRightColor": "rgba(0,0,0,1.00)",
+              "borderRightWidth": "0px",
+              "borderTopColor": "rgba(0,0,0,1.00)",
+              "borderTopWidth": "0px",
+              "flex": 1,
+              "justifyContent": "center",
+              "msFlex": "1 1 0%",
+              "msFlexPack": "center",
+              "paddingBottom": "5px",
+              "paddingLeft": "5px",
+              "paddingRight": "5px",
+              "paddingTop": "5px",
+            }
+          }
+        >
+          <div
+            className="css-view-1dbjc4n"
+            style={
+              Object {
+                "WebkitBoxDirection": "normal",
+                "WebkitBoxOrient": "horizontal",
+                "WebkitBoxPack": "center",
+                "WebkitFlex": 3,
+                "WebkitFlexDirection": "row",
+                "WebkitJustifyContent": "center",
+                "flex": 3,
+                "flexDirection": "row",
+                "justifyContent": "center",
+                "msFlex": "3 1 0%",
+                "msFlexDirection": "row",
+                "msFlexPack": "center",
+                "paddingBottom": "10px",
+                "paddingLeft": "10px",
+                "paddingRight": "10px",
+                "paddingTop": "10px",
+              }
+            }
+          >
+            <div
+              data-tip="Edit"
+            >
+              <div
+                className="__react_component_tooltip t226ab1e8-a20f-44f0-8068-0c680ed6f33b place-top type-dark"
+                data-id="tooltip"
+                id="t226ab1e8-a20f-44f0-8068-0c680ed6f33b"
+              >
+                <style
+                  aria-hidden="true"
+                  dangerouslySetInnerHTML={
+                    Object {
+                      "__html": "
+  	.t226ab1e8-a20f-44f0-8068-0c680ed6f33b {
+	    color: #fff;
+	    background: #222;
+	    border: 1px solid transparent;
+  	}
+
+  	.t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-top {
+        margin-top: -10px;
+    }
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-top::before {
+        border-top: 8px solid transparent;
+    }
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-top::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        bottom: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-top-color: #222;
+        border-top-style: solid;
+        border-top-width: 6px;
+    }
+
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-bottom {
+        margin-top: 10px;
+    }
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-bottom::before {
+        border-bottom: 8px solid transparent;
+    }
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-bottom::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        top: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-bottom-color: #222;
+        border-bottom-style: solid;
+        border-bottom-width: 6px;
+    }
+
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-left {
+        margin-left: -10px;
+    }
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-left::before {
+        border-left: 8px solid transparent;
+    }
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-left::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        right: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-left-color: #222;
+        border-left-style: solid;
+        border-left-width: 6px;
+    }
+
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-right {
+        margin-left: 10px;
+    }
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-right::before {
+        border-right: 8px solid transparent;
+    }
+    .t226ab1e8-a20f-44f0-8068-0c680ed6f33b.place-right::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        left: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-right-color: #222;
+        border-right-style: solid;
+        border-right-width: 6px;
+    }
+  ",
+                    }
+                  }
+                />
+              </div>
+            </div>
+            <div
+              data-tip="History"
+            >
+              <div
+                className="__react_component_tooltip td1c195ac-2217-487a-b13f-e9c0a55e010f place-top type-dark"
+                data-id="tooltip"
+                id="td1c195ac-2217-487a-b13f-e9c0a55e010f"
+              >
+                <style
+                  aria-hidden="true"
+                  dangerouslySetInnerHTML={
+                    Object {
+                      "__html": "
+  	.td1c195ac-2217-487a-b13f-e9c0a55e010f {
+	    color: #fff;
+	    background: #222;
+	    border: 1px solid transparent;
+  	}
+
+  	.td1c195ac-2217-487a-b13f-e9c0a55e010f.place-top {
+        margin-top: -10px;
+    }
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-top::before {
+        border-top: 8px solid transparent;
+    }
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-top::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        bottom: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-top-color: #222;
+        border-top-style: solid;
+        border-top-width: 6px;
+    }
+
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-bottom {
+        margin-top: 10px;
+    }
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-bottom::before {
+        border-bottom: 8px solid transparent;
+    }
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-bottom::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        top: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-bottom-color: #222;
+        border-bottom-style: solid;
+        border-bottom-width: 6px;
+    }
+
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-left {
+        margin-left: -10px;
+    }
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-left::before {
+        border-left: 8px solid transparent;
+    }
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-left::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        right: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-left-color: #222;
+        border-left-style: solid;
+        border-left-width: 6px;
+    }
+
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-right {
+        margin-left: 10px;
+    }
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-right::before {
+        border-right: 8px solid transparent;
+    }
+    .td1c195ac-2217-487a-b13f-e9c0a55e010f.place-right::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        left: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-right-color: #222;
+        border-right-style: solid;
+        border-right-width: 6px;
+    }
+  ",
+                    }
+                  }
+                />
+              </div>
+            </div>
+            <div
+              data-tip="Report"
+            >
+              <div
+                className="__react_component_tooltip t82dea625-6a71-424a-9076-5718385566f5 place-top type-dark"
+                data-id="tooltip"
+                id="t82dea625-6a71-424a-9076-5718385566f5"
+              >
+                <style
+                  aria-hidden="true"
+                  dangerouslySetInnerHTML={
+                    Object {
+                      "__html": "
+  	.t82dea625-6a71-424a-9076-5718385566f5 {
+	    color: #fff;
+	    background: #222;
+	    border: 1px solid transparent;
+  	}
+
+  	.t82dea625-6a71-424a-9076-5718385566f5.place-top {
+        margin-top: -10px;
+    }
+    .t82dea625-6a71-424a-9076-5718385566f5.place-top::before {
+        border-top: 8px solid transparent;
+    }
+    .t82dea625-6a71-424a-9076-5718385566f5.place-top::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        bottom: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-top-color: #222;
+        border-top-style: solid;
+        border-top-width: 6px;
+    }
+
+    .t82dea625-6a71-424a-9076-5718385566f5.place-bottom {
+        margin-top: 10px;
+    }
+    .t82dea625-6a71-424a-9076-5718385566f5.place-bottom::before {
+        border-bottom: 8px solid transparent;
+    }
+    .t82dea625-6a71-424a-9076-5718385566f5.place-bottom::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        top: -6px;
+        left: 50%;
+        margin-left: -8px;
+        border-bottom-color: #222;
+        border-bottom-style: solid;
+        border-bottom-width: 6px;
+    }
+
+    .t82dea625-6a71-424a-9076-5718385566f5.place-left {
+        margin-left: -10px;
+    }
+    .t82dea625-6a71-424a-9076-5718385566f5.place-left::before {
+        border-left: 8px solid transparent;
+    }
+    .t82dea625-6a71-424a-9076-5718385566f5.place-left::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        right: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-left-color: #222;
+        border-left-style: solid;
+        border-left-width: 6px;
+    }
+
+    .t82dea625-6a71-424a-9076-5718385566f5.place-right {
+        margin-left: 10px;
+    }
+    .t82dea625-6a71-424a-9076-5718385566f5.place-right::before {
+        border-right: 8px solid transparent;
+    }
+    .t82dea625-6a71-424a-9076-5718385566f5.place-right::after {
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+        left: -6px;
+        top: 50%;
+        margin-top: -4px;
+        border-right-color: #222;
+        border-right-style: solid;
+        border-right-width: 6px;
+    }
+  ",
+                    }
+                  }
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
